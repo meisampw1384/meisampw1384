@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Meysam**, a software enthusiast with a passion for technology and music. I’m currently studying at **Isfahan University of Technology** and enjoy exploring various aspects of software development.
+I’m **Meysam**, a software enthusiast with a passion for technology. I’m currently studying at Isfahan University of Technology and enjoy exploring various aspects of software development.
 
 ### Languages and Tools
 
