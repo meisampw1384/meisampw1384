@@ -14,9 +14,8 @@ I’m **Meysam**, a software enthusiast with a passion for technology. I’m cur
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
 ### Interests
-- 🎶 Music
 - 💻 Software Development
-- 🏋️‍♂️ Gym
+- 🎶 Music
 
 ### Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/meisampw1384)
