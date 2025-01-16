@@ -18,7 +18,7 @@ I’m **Meysam**, a software enthusiast with a passion for technology. I’m cur
 - 🎶 Music
 
 ### Connect with me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/meisampw1384)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/gmpkw)
 
 
 
