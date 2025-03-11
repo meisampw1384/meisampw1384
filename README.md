@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Meysam**, a software enthusiast with a passion for technology. I’m currently studying at Isfahan University of Technology and enjoy exploring various aspects of software development.
+I'm **Meysam**, a software enthusiast with a passion for technology. Currently studying at Isfahan University of Technology, I enjoy exploring various aspects of software development, with a keen interest in both development and networking.
 
 ### Languages and Tools
 
@@ -14,7 +14,7 @@ I’m **Meysam**, a software enthusiast with a passion for technology. I’m cur
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
 ### Interests
-- 💻 Software Development
+- 💻 Software Development & Networking
 - 🎶 Music
 
 ### Connect with me
