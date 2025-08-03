@@ -1,25 +1,54 @@
-## Hi there 👋
+<div align="center">
 
-I'm **Meysam**, a software enthusiast with a passion for technology. Currently studying at Isfahan University of Technology, I enjoy exploring various aspects of software development, with a keen interest in both development and networking.
+  <h1>Hi there, I'm Meysam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <p>A passionate software enthusiast from 🇮🇷 studying at Isfahan University of Technology. <br> I love building elegant software solutions and exploring the worlds of development and networking.</p>
 
-### Languages and Tools
+</div>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+---
 
-### Interests
-- 💻 Software Development & Networking
-- 🎶 Music
+### 🚀 About Me
 
-### Connect with me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/gmpkw)
+- 👨‍💻 I'm a **Software Developer** with a keen interest in Backend Development and Computer Networks.
+- 🎓 Currently a student at **Isfahan University of Technology (IUT)**.
+- 🎶 When I'm not coding, you can find me listening to music or exploring new tracks.
 
+---
 
+### 🛠️ My Tech Stack
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,django,javascript,html,css,c,cpp,cs,git,docker,linux" />
+  </a>
+</p>
 
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=meisampw1384&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Meysam's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meisampw1384&layout=compact&theme=tokyonight&hide_border=true" alt="Meysam's Top Languages"/>
+  </a>
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://meysam.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://t.me/gmpkw" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+ 
+  <a href="https://www.linkedin.com/in/meysam-pouryamehr-7482ab339" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
