@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi there, I'm Meysam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  <p>A passionate software enthusiast from 🇮🇷 studying at Isfahan University of Technology. <br> I love building elegant software solutions and exploring the worlds of development and networking.</p>
+  <p>A passionate software enthusiast from Iran, studying at Isfahan University of Technology. <br> I love building elegant software solutions and exploring the worlds of development and networking.</p>
 
 </div>
 
